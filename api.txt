@@ -1,1 +1,1 @@
-http://masjednoor.ir/cache/xmailer/api.php
+http://site.com/path/api.php
