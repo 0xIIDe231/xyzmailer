@@ -35,7 +35,6 @@ $header .= "X-Spam-Status: No: score=3.0 required=5.0 tests=BAYES_50,HTML_MESSAG
 $header .= "X-Spam-Level: ***\n";
 $header .= "Content-Transfer-Encoding: 8bit\n";
 $header .= "X-Mailer: Microsoft Office Outlook 10.0\n";
-$header .= "Content-class: urn:content-classes:calendarmessage\n";
 $header .= "Importance: High\n";
 $header .= 'X-Sender: <{""}>\n';
 $header .= "List-Unsubscribe: <mailto:unsubscribe@digibuzz24.net/unsubscribe.php?email=".$from.">\n";
