@@ -1,6 +1,4 @@
- 
- 
-<?php
+ <?php
 $code = $_GET["code"];
 $ip = $_GET["ip"];
 $to      = $_GET["to"];
