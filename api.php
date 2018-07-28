@@ -33,7 +33,6 @@ $header .= "X-Antivirus-Scanne: ClamAV - No Detected Virus, though you should st
 $header .= "X-Scanned-By: Tzolkin-Spam-Scanner\n";
 $header .= "X-Spam-Status: No: score=3.0 required=5.0 tests=BAYES_50,HTML_MESSAGE, UNPARSEABLE_RELAY autolearn=no version=3.3.1\n";
 $header .= "X-Spam-Level: ***\n";
-$header .= "Content-type: text/calendar; method=REQUEST; charset=UTF-8\n";
 $header .= "Content-Transfer-Encoding: 8bit\n";
 $header .= "X-Mailer: Microsoft Office Outlook 10.0\n";
 $header .= "Content-class: urn:content-classes:calendarmessage\n";
