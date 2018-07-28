@@ -7,7 +7,7 @@ bulk mailist that have delay function to maintain the hosting life.
 2. Main Manual
 - Place your mailist into one folder with xmailer
 - Place your letter on Hosting that same folder with the api file
-- Place your attachment file into same folder with the api file
+- You can put mail address to letter with !email! format
 - You can generate random code on subject and letter with !code! format
 - You can generate random IP on letter with !ip! format
 - You can generate random number on from mail with !number! format
